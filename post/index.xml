@@ -6,10 +6,23 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 18:48:35 -0800</lastBuildDate>
     
 	<atom:link href="https://lubabuya.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dao3</title>
+      <link>https://lubabuya.github.io/post/dao3/</link>
+      <pubDate>Sun, 18 Feb 2018 18:48:35 -0800</pubDate>
+      
+      <guid>https://lubabuya.github.io/post/dao3/</guid>
+      <description>SEC-с гаргасан Report of Investigation -д дурдагдсан энэ шийдвэрийг гаргах болсон үндэслэлүүдийг сонирхъе.
+Энэхүү 18 хуудас дүгнэлтийн “DAO Tokens Are Securities” гарчигтай III-B хэсэгт Howey тест дээр тулгуурлан DAO Tokens нь securities байсан гэсэн дүгнэлт гаргажээ.
+The Howey Test
+1946 онд Supreme Court-д шийдвэрлэгдсэн маргаанаас үүдэлтэйгээр гарсан Howey тест нь хэрэв дараах 4 зүйл үнэн байвал гүйлгээ нь хѳрѳнгѳ оруулалтын гүйлгээ/гэрээ (investment contract) байна хэмээн тогтоожээ:
+It is an investment of money There is an expectation of profits from the investment The investment of money is in a common enterprise Any profit comes from the efforts of a promoter or third party</description>
+    </item>
     
     <item>
       <title>DAO tokens were securities</title>
