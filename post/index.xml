@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on </title>
     <link>https://lubabuya.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 14:20:03 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lubabuya.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>https://lubabuya.github.io/post/hello/</link>
-      <pubDate>Sun, 18 Feb 2018 14:20:03 -0800</pubDate>
+      <title>DAO tokens were securities</title>
+      <link>https://lubabuya.github.io/post/daotokens/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lubabuya.github.io/post/hello/</guid>
-      <description>hello 1</description>
+      <guid>https://lubabuya.github.io/post/daotokens/</guid>
+      <description>Ѳчигдѳрийн технолoгийн ертѳнц дэх онцлох мэдээнүүдийн нэг нь SEC (U.S. Securities and Exchange Commission) -н гаргасан DAO tokens нь securities байсан гэсэн мэдэгдэл байлаа. (Press Release &amp;amp; on the news).
+SEC-с гаргасан Report of Investigation -д дурдагдсан энэ шийдвэрийг гаргах болсон үндэслэлүүдийг сонирхъе.
+Энэхүү 18 хуудас дүгнэлтийн “DAO Tokens Are Securities” гарчигтай III-B хэсэгт Howey тест дээр тулгуурлан DAO Tokens нь securities байсан гэсэн дүгнэлт гаргажээ.
+The Howey Test
+1946 онд Supreme Court-д шийдвэрлэгдсэн маргаанаас үүдэлтэйгээр гарсан Howey тест нь хэрэв дараах 4 зүйл үнэн байвал гүйлгээ нь хѳрѳнгѳ оруулалтын гүйлгээ/гэрээ (investment contract) байна хэмээн тогтоожээ:</description>
     </item>
     
   </channel>
