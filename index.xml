@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://lubabuya.github.io/</link>
+    <link>http://tutor.mn/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lubabuya.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tutor.mn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blockchain Developers #1 [work in progress]</title>
-      <link>https://lubabuya.github.io/post/blockchain-developers-1/</link>
+      <link>http://tutor.mn/post/blockchain-developers-1/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lubabuya.github.io/post/blockchain-developers-1/</guid>
+      <guid>http://tutor.mn/post/blockchain-developers-1/</guid>
       <description>[Educational blog post series for blockchain developers. Work In Progress]</description>
     </item>
     
     <item>
       <title>Blockchain Fundamentals #1 [work in progress]</title>
-      <link>https://lubabuya.github.io/post/blockchain-fundamentals-1/</link>
+      <link>http://tutor.mn/post/blockchain-fundamentals-1/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lubabuya.github.io/post/blockchain-fundamentals-1/</guid>
+      <guid>http://tutor.mn/post/blockchain-fundamentals-1/</guid>
       <description>[Educational blog post series for blockchain fundamentals. Work In Progress]</description>
     </item>
     
     <item>
       <title>DAO tokens were securities</title>
-      <link>https://lubabuya.github.io/post/daotokens/</link>
+      <link>http://tutor.mn/post/daotokens/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lubabuya.github.io/post/daotokens/</guid>
+      <guid>http://tutor.mn/post/daotokens/</guid>
       <description>Ѳчигдѳрийн технолoгийн ертѳнц дэх онцлох мэдээнүүдийн нэг нь SEC (U.S. Securities and Exchange Commission) -н гаргасан DAO tokens нь securities байсан гэсэн мэдэгдэл байлаа. (Press Release &amp;amp; on the news).
 SEC-с гаргасан Report of Investigation -д дурдагдсан энэ шийдвэрийг гаргах болсон үндэслэлүүдийг сонирхъе.
 Энэхүү 18 хуудас дүгнэлтийн “DAO Tokens Are Securities” гарчигтай III-B хэсэгт Howey тест дээр тулгуурлан DAO Tokens нь securities байсан гэсэн дүгнэлт гаргажээ.
